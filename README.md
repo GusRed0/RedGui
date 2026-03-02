@@ -15,3 +15,8 @@
 - Vehicle fly: fly in a vehicle
 - Rejoin
 - ESP: creates a Highlight for everyone in the server, which allows you to see where everyone is
+
+## Script:
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GusRed0/RedGui/refs/heads/main/source.lua"))()
+```
